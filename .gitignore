@@ -1,0 +1,12 @@
+# Obsidian 설정 및 캐시 파일 무시
+.obsidian/
+.obsidian/plugins/
+.obsidian/snippets/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 기타 무시할 파일 및 폴더
+.trash/
+.vscode/
+conflict-files-obsidian-git.md
+.DS_Store
